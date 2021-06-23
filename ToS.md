@@ -30,6 +30,7 @@ This can be paid with debit or credit card and OXXO. No need to create any kind 
 - I have the final say in what the image costs. I will not negotiate.
 
 ## Requests Restrictions and Recommendations
+- You must be 18 years or older to commission NSFW images.
 - Feel free to give me creative freedom if you don't have ideas for the commission.
 - I reserve the right to decline any commission for any reason without explanation.
 - I will not accept commissions that are racist, hateful, or intended to insult or harm others.
@@ -80,8 +81,8 @@ Unless otherwise stated by me, the following permissions and restrictions apply 
 
 I, the artist, ...
 - ...may distribute my work freely and at my own discretion.
-- You may request that I not share the work until a determined date.
-- You may also request that I keep a work private indefinitely.
+  - You may request that I not share the work until a determined date.
+  - You may also request that I keep a work private indefinitely.
 - ...may use my work for commercial purposes, unless you purchase those rights from me, in which case I shall NOT do so.
 - ...shall NOT claim your characters or ideas as my own.
 
