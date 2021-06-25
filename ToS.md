@@ -30,14 +30,13 @@ This can be paid with debit or credit card and OXXO. No need to create any kind 
 - I have the final say in what the image costs. I will not negotiate.
 
 ## Requests Restrictions and Recommendations
-- You must be 18 years or older to commission NSFW images.
-- Feel free to give me creative freedom if you don't have ideas for the commission.
 - I reserve the right to decline any commission for any reason without explanation.
 - I will not accept commissions that are racist, hateful, or intended to insult or harm others.
 - I will not accept requests to copy the style of another artist.
 
 
 To minimize confusion and ensure that you get what you want, consider the following when you commission me:
+- Feel free to give me creative freedom if you don't have ideas for the commission.
 - Always include visual references, even if they are just results from image searches. If you expect me to search for references myself, I may get very different results than what you had hoped for.
 - When describing details in text, bulleted lists are easier for me to wrap my head around than large paragraphs.
 - If you can't decide on a pose or expression, provide a description about the character.
@@ -47,15 +46,17 @@ To minimize confusion and ensure that you get what you want, consider the follow
 
 ## Conduct and Process
 Once you submit a commission and I accept it, we will follow this process:
-1. Will discuss the details of the commission and pricing.
-2. Once details are confirmed, I will make a rough sketch of the ideas.
-3. Once approved, I will invoice you.
-4. I will begin work on finishing the commission.
-5. I may occasionally send you WIPs to show progress.
-Depending on the work at hand, edits may be possible. It depends on the request.
-Any oversights I make during the process will be tended to the best way possible.
-6. Once finished, a link with the artwork will be messaged to you at its highest resolution as a PNG file
-7. Unless negotiated otherwise, the finished commission will be uploaded.
+1. We will discuss the details of the commission and pricing.
+2. Once details are confirmed, I will invoice you.
+3. After payment has been received, I will begin drafting.  
+4. I will send you the draft for your review and approval.
+5. I will begin work on finishing the commission.
+6. I may occasionally send you WIPs to show progress.  
+  - Depending on the work at hand, edits may be possible. It depends on the request.  
+  - Any oversights I make during the process will be tended to the best way possible.
+7. Once finished, a link with the artwork will be messaged to you at its highest resolution as a PNG file
+8. Unless negotiated otherwise, the finished commission will be uploaded.
+  - Refunds are no longer offered at this point.
 
 If you fail to respond to me for 3 days, I will work to completion with the information given to me. I will do my best to contact you through any other means that I can think of. Should the commission not be paid within a week, it will be canceled.
 
@@ -64,12 +65,14 @@ You may ask for "Work In Progress" images, progress updates and time estimates. 
 ## Refunds and Cancellations
 I reserve the right to decline or cancel a commission for any reason, without explanation. This includes attempting to add to the commission well outside of the original request. If I cancel your commission, you will receive a partial refund. In rare circumstances I may provide a full refund.
 
-The commission can be freely cancelled during the rough sketch step before there has been any payment.
+It will be partial unless I have yet to begin work past the rough sketch step.  
 
-You may request a refund at any time. It will be partial unless I have yet to begin work. Partial refunds are the difference in what you paid and what I worked up to.
-The refund won't generate transaction fees but the transaction fees initially paid won't be included(around 5%).
+You may request a refund at any time. It will be partial unless I have yet to begin work. Partial refunds are the difference in what you paid and what I worked up to.  
+Previous transaction fees (around 5%) will be deducted from the refund.  
 
-Do NOT file a chargeback as a means to receive a refund. Contact me instead so that I may start the refund process though Stripe myself. If a chargeback is filed against me without my consent:
+Do NOT file a chargeback as a means to receive a refund. Contact me instead so that I may start the refund process.  
+
+ If a chargeback is filed against me without my consent:
 - You will be forbidden from ever commissioning me in the future.
 - You will relinquish ALL rights granted by me to use my work, both commercially and non-commercially.
 - All correspondence between us may be shared with other artists, with Stripe during dispute resolution, and even publicly at my own discretion.
@@ -81,17 +84,19 @@ Unless otherwise stated by me, the following permissions and restrictions apply 
 
 I, the artist, ...
 - ...may distribute my work freely and at my own discretion.
-  - You may request that I not share the work until a determined date.
-  - You may also request that I keep a work private indefinitely.
+- You may request that I not share the work for up to two months.
+- You may also request that I keep a work private indefinitely, for an additional fee of 15%.
 - ...may use my work for commercial purposes, unless you purchase those rights from me, in which case I shall NOT do so.
 - ...shall NOT claim your characters or ideas as my own.
 
 You, the client, ...
 - ...may share WIPs during the commission process.
   - Note: The rights that follow do NOT apply to WIPs unless I expressly agree to it. Feel free to contact me for permission.
-- ...may repost my work on the condition that it is posted with credit to me, consisting of my name and a link directing to one of my profiles, galleries or Twitter.
+- ...may repost my work on the condition that it is posted with credit to me, consisting of my name and a link directing to one of my profiles or galleries.
 - ...may crop and resize my work for use as a personal avatar without credit.
-- ...may use my work for badges and emoji on the condition that credit is given to me in your channel info.
+- ...may use for Telegram sticker on the condition that a sticker to credit is included in thee pack.
+- ...may use my work for badges and emoji on Twitch on the condition that credit is given to me in your channel info.
+- ...may crop and resize my work for use as emoji elsewhere without credit, and may grant others permission to do the same.
   - If you'd like to restrict who may do this, you yourself must enforce it.
 - ...may edit my work, or have others edit my work, on the condition that you state clearly that it is derivative of my work and NOT a collaboration, link directly to the original as posted publicly by me, and notify me about the edit.
   - This does NOT grant you permission to remove my signature/watermark, but you may add your own as well.
