@@ -9,19 +9,21 @@
 [<img align="left" alt="twitter" width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitch.svg" />][twitch]
 [<img align="left" alt="twitter" width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackaday.svg" />][hack]  
 <br>
-[![Website](https://img.shields.io/website?label=typhoonteaser.com&style=for-the-badge&url=http%3A%2F%2Ftyphoonteaser.com)]([website])
-[![Twitter](https://img.shields.io/twitter/follow/typhoonteaser?color=1DA1F2&logo=twitter&style=for-the-badge)]([twitter])
-[![twitch](https://img.shields.io/twitch/status/typhoonteaser?color=%239146FF&style=for-the-badge&logo=twitch)]([twitch])  
+[![Website](https://img.shields.io/website?label=typhoonteaser.com&style=for-the-badge&url=http%3A%2F%2Ftyphoonteaser.com)][website]
+[![Twitter](https://img.shields.io/twitter/follow/typhoonteaser?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+[![twitch](https://img.shields.io/twitch/status/typhoonteaser?color=%239146FF&style=for-the-badge&logo=twitch)][twitch]  
 
 ### Hi! I'm Ari, also known as Typhoon Teaser online.  
-Techie girl who works on electronics projects including microcontrollers, single board computers and IoT and as an artist making illustrations and comics.  
+Techie girl who works on electronics maker projects including microcontrollers, single board computers and IoT. Also as an artist making illustrations and comics.
+Focusting on open source projects to be used on indie labs and combinaning art and technology.
+
 
 ### Projects:
-[**ARI-RP621**]() - Custom Built Cyberdeck/Laptop.  
-[**ARI-MK1-Y70**](https://hackaday.io/project/178437-ari-mk1-y70) - Turning my laptop into a desktop because it broke  my expectations.  
-[**PHOTONODE**]() - Addressable Horticulture Lamps.  
-[**OPEN ROTOVAP**]() - Accessible Rotovap for the Indie Lab.  
-[**WEB RTD**]() - Portable and standalone RTD temperature sensor with IoT.
+**ARI-RP621** - Custom Built Cyberdeck/Laptop.  
+[**ARI-MK1-Y70**](https://hackaday.io/project/178437-ari-mk1-y70) - Turning my laptop into a non overheating desktop.  
+**PHOTONODE** - Addressable Horticulture Lamps.  
+**OPEN ROTOVAP** - Accessible Rotovap for the Indie Lab.  
+**WEB RTD** - Portable and standalone RTD temperature sensor with IoT.
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
