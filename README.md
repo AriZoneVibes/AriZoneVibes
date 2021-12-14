@@ -14,9 +14,7 @@
 [![twitch](https://img.shields.io/twitch/status/typhoonteaser?color=%239146FF&style=for-the-badge&logo=twitch)][twitch]  
 
 ### Hi! I'm Ari, also known as Typhoon Teaser online.  
-Techie girl who works on electronics maker projects including microcontrollers, single board computers and IoT. Also as an artist making illustrations and comics.
-Focusting on open source projects to be used on indie labs and combinaning art and technology.
-
+Techie girl who works on electronics maker projects including microcontrollers, single board computers, and IoT. Also as an artist making illustrations and comics. Focusing on open source projects to be used on indie labs and combining art and technology.
 
 ### Projects:
 **ARI-RP621** - Custom Built Cyberdeck/Laptop.  
