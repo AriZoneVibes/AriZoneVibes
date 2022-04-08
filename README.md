@@ -1,6 +1,6 @@
-[![Banner](assets/Banner.png)][website]  
-----
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A078F1F)  
+## [![Banner](assets/Banner.png)][website]
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A078F1F)
 
 [<img align="left" alt="website" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/browser.svg" />][website]
 [<img align="left" alt="twitter" width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" />][twitter]
@@ -9,14 +9,16 @@
 [<img align="left" alt="twitter" width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitch.svg" />][twitch]
 [<img align="left" alt="twitter" width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackaday.svg" />][hack]  
 <br>
-[![Website](https://img.shields.io/website?label=typhoonteaser.com&style=for-the-badge&url=http%3A%2F%2Ftyphoonteaser.com)][website]
-[![Twitter](https://img.shields.io/twitter/follow/typhoonteaser?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
-[![twitch](https://img.shields.io/twitch/status/typhoonteaser?color=%239146FF&style=for-the-badge&logo=twitch)][twitch]  
+[![Website](https://img.shields.io/website?label=ari-zone.com&style=for-the-badge&url=http%3A%2F%2Fari-zone.com)][website]
+[![Twitter](https://img.shields.io/twitter/follow/AriZoneVibes?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+[![twitch](https://img.shields.io/twitch/status/AriZoneVibes?color=%239146FF&style=for-the-badge&logo=twitch)][twitch]
 
-### Hi! I'm Ari, also known as Typhoon Teaser online.  
+### Hi! I'm Ari, formerly TyphoonTeaser.
+
 Techie girl who works on electronics maker projects including microcontrollers, single board computers, and IoT. Also as an artist making illustrations and comics. Focusing on open source projects to be used on indie labs and combining art and technology.
 
 ### Projects:
+
 **ARI-RP621** - Custom Built Cyberdeck/Laptop.  
 [**ARI-MK1-Y70**](https://hackaday.io/project/178437-ari-mk1-y70) - Turning my laptop into a non overheating desktop.  
 **PHOTONODE** - Addressable Horticulture Lamps.  
@@ -50,8 +52,8 @@ Techie girl who works on electronics maker projects including microcontrollers, 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 [website]: http://typhoonteaser.com/
-[twitter]: https://twitter.com/TyphoonTeaser  
-[telegram]: https://t.me/typhoonteaser  
+[twitter]: https://twitter.com/TyphoonTeaser
+[telegram]: https://t.me/typhoonteaser
 [twitch]: https://www.twitch.tv/typhoonteaser
 [hack]: https://hackaday.io/typhoonteaser
 [youtube]: https://www.youtube.com/channel/UCh0YbFSf61U8mfuufxhIyJg

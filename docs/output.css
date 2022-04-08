@@ -590,14 +590,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   position: relative;
 }
 
-.top-0 {
-  top: 0px;
-}
-
-.bottom-0 {
-  bottom: 0px;
-}
-
 .order-3 {
   order: 3;
 }
@@ -862,11 +854,6 @@ Ensure the default browser behavior of the `hidden` attribute.
      object-fit: cover;
 }
 
-.object-bottom {
-  -o-object-position: bottom;
-     object-position: bottom;
-}
-
 .object-top {
   -o-object-position: top;
      object-position: top;
@@ -1005,11 +992,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(229 231 235 / var(--tw-text-opacity));
 }
 
-.text-gray-300 {
-  --tw-text-opacity: 1;
-  color: rgb(209 213 219 / var(--tw-text-opacity));
-}
-
 .underline {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
@@ -1131,11 +1113,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .md\:w-8\/12 {
     width: 66.666667%;
-  }
-
-  .md\:object-right {
-    -o-object-position: right;
-       object-position: right;
   }
 
   .md\:object-center {
