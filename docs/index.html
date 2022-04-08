@@ -174,7 +174,7 @@
                 <ul class="flex flex-col lg:flex-row flex-wrap">
                     <li class="lg:w-1/3"><img data-enlargeable src="img/gallery/01.png" alt=""
                         class="img-gal"></li>
-                    <li class="lg:w-1/3"><video loop autoplay data-enlargeable src="img/gallery/11.mp4" alt="" 
+                    <li class="lg:w-1/3"><video loop autoplay onclick="showvideo()" src="img/gallery/11.mp4" alt="" 
                         class="img-gal object-top"></video></li>
                     <li class="lg:w-1/3"><img data-enlargeable src="img/gallery/02.png" alt="" 
                         class="img-gal object-right md:object-center"></li>
@@ -354,6 +354,9 @@
             uwu
         </div>
     </footer>
+    <div id="overlay" style="display: none; background: RGBA(0,0,0,0.5) no-repeat center; backgroundSize: contain; width: 100%; height: 100%; position: fixed; zIndex: 10000; top: 0; left: 0; cursor: zoom-out;">
+        <video src="img/gallery/11.mp4" loop autoplay onclick="hidevideo()" style="margin-left: auto; margin-right: auto;"></video>
+    </div>
     <!-- <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
     <script>
         kofiWidgetOverlay.draw('arizone', {
@@ -411,6 +414,18 @@
                     }
                 });
             });
+    </script>
+    <script>
+        function showvideo(){
+            console.log("Trying to show");
+            var x = document.getElementById("overlay");
+            x.style.display = "flex";
+        }
+        function hidevideo(){
+            console.log("Trying to hide")
+            var x = document.getElementById("overlay");
+            x.style.display = "none";
+        }
     </script>
 </body>
 
