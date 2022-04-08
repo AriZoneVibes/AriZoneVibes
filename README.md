@@ -51,9 +51,9 @@ Techie girl who works on electronics maker projects including microcontrollers, 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[website]: http://typhoonteaser.com/
-[twitter]: https://twitter.com/TyphoonTeaser
-[telegram]: https://t.me/typhoonteaser
-[twitch]: https://www.twitch.tv/typhoonteaser
-[hack]: https://hackaday.io/typhoonteaser
+[website]: http://ari-zone.com/
+[twitter]: https://twitter.com/AriZoneVibes
+[telegram]: https://t.me/arizonevibes
+[twitch]: https://www.twitch.tv/arizonevibes
+[hack]: https://hackaday.io/arizone
 [youtube]: https://www.youtube.com/channel/UCh0YbFSf61U8mfuufxhIyJg
