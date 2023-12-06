@@ -19,11 +19,8 @@ Techie girl who works on electronics maker projects including microcontrollers, 
 
 ### Projects:
 
-**ARI-RP621** - Custom Built Cyberdeck/Laptop.  
+**Kit-Ti** - Custom Built Cyberdeck/Laptop.  
 [**ARI-MK1-Y70**](https://hackaday.io/project/178437-ari-mk1-y70) - Turning my laptop into a non overheating desktop.  
-**PHOTONODE** - Addressable Horticulture Lamps.  
-**OPEN ROTOVAP** - Accessible Rotovap for the Indie Lab.  
-**WEB RTD** - Portable and standalone RTD temperature sensor with IoT.
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
